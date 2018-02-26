@@ -31,6 +31,7 @@ I have experience of TravisCI and StyleCI
 Experienced:
 - PHP 7, including Laravel, composer
 - CSS, including SASS and SCSS
+- bash, cli scripting
 
 Basic:
 - JavaScript, including basic familiarity with Node.js, npm, Vue.js and Webpack.
@@ -38,4 +39,3 @@ Basic:
 - Bash
 - Elixir
 - Linux administration
-- Bash and shell scripting
