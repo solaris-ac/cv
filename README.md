@@ -1,5 +1,7 @@
 # Thomas Smith
+
 07446840149
+
 [GitHub](https://github.com/tmus)
 
 ## About
