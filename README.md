@@ -25,15 +25,15 @@ I have experience of TravisCI and StyleCI
 
 
 ## Links
-- [Github](https://github.com/tmus
+- [GitHub](https://github.com/tmus)
 
 ## Skill Summary
 Experienced:
-- PHP
-- CSS
+- PHP 7, including Laravel, composer
+- CSS, including SASS and SCSS
 
 Basic:
-- JavaScript, including basic familiarity with Node.js, Vue.js and Webpack.
+- JavaScript, including basic familiarity with Node.js, npm, Vue.js and Webpack.
 - MYSQL (both cli and gui)
 - Bash
 - Elixir
