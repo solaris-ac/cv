@@ -14,7 +14,8 @@ conversion and parsing.
 In my free time, I have embarked on small side-projects to cut my teeth at maintaining codebases.
 These include:
 
-- an API for querying school Ofsted results by locality and grade
+- an API for querying school Ofsted results by locality and grade, this involved creating a web-
+scraper to scrape each school's Ofsted page and convert the results to a database entry.
 - a webapp for managing phone extensions and voicemail inboxes, using Twilio's API
 
 I have an eye for design and am meticulous to a fault. My code is neat and my version control is
