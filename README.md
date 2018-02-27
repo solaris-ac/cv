@@ -5,9 +5,9 @@
 [GitHub](https://github.com/tmus)
 
 ## About
-For the last nine years I have worked in a primary school in capacities including financal, data and assessment and managerial.
+For the last nine years I have worked in a primary school in various capacities.
 Each of these jobs have required me to be accurate, analytical and dedicated.
-I been interested in programming for some time, believing it to be a means to streamline routine work and automate mundane tasks.
+I been interested in programming for some time, I believe it to be a means to automate routine work and mundane tasks.
 To this end, I have streamlined many aspects of the company to remove human error and rapidly reduce manual processing: iZettle cURL, Stripe webhooks, XML
 conversion and parsing.
 
@@ -18,7 +18,7 @@ These include:
 scraper to scrape each school's Ofsted page and convert the results to a database entry.
 - a webapp for managing phone extensions and voicemail inboxes, using Twilio's API
 
-I have an eye for design and am meticulous to a fault. My code is neat and my version control is
+I have an eye for design and am meticulous to a fault. I follow style guides.
 
 I give my best every day. I love learning. 
 
@@ -32,8 +32,9 @@ I have experience of TravisCI and StyleCI
 ## Skill Summary
 Experienced:
 - PHP 7, including Laravel, composer
-- CSS, including SASS and SCSS
+- CSS, including SASS
 - bash, cli scripting
+- git
 
 Basic:
 - JavaScript, including basic familiarity with Node.js, npm, Vue.js and Webpack.
