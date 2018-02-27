@@ -20,6 +20,8 @@ scraper to scrape each school's Ofsted page and convert the results to a databas
 
 I have an eye for design and am meticulous to a fault. My code is neat and my version control is
 
+I give my best every day. I love learning. 
+
 
 I have experience of TravisCI and StyleCI
 
