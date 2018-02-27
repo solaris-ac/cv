@@ -5,10 +5,10 @@
 [GitHub](https://github.com/tmus)
 
 ## About
-For the last nine years I have worked in a primary school in capacities ranging from finance,
-assessment and managerial. I been interested in programming, believing it to be a means to streamline
-routine work and automate mundane tasks. To this end, I have streamlined many aspects of the company
-to remove human error and rapidly reduce manual processing: iZettle cURL, Stripe webhooks, XML
+For the last nine years I have worked in a primary school in capacities including financal, data and assessment and managerial.
+Each of these jobs have required me to be accurate, analytical and dedicated.
+I been interested in programming for some time, believing it to be a means to streamline routine work and automate mundane tasks.
+To this end, I have streamlined many aspects of the company to remove human error and rapidly reduce manual processing: iZettle cURL, Stripe webhooks, XML
 conversion and parsing.
 
 In my free time, I have embarked on small side-projects to cut my teeth at maintaining codebases.
